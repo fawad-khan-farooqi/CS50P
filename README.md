@@ -36,7 +36,7 @@ The goal of this repository is to build a strong foundation in Python programmin
 ## Progress
 
 * [x] Week 0
-* [ ] Week 1
+* [x] Week 1
 * [ ] Week 2
 * [ ] Week 3
 * [ ] Week 4
