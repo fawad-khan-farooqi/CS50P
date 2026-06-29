@@ -37,9 +37,9 @@ The goal of this repository is to build a strong foundation in Python programmin
 
 * [x] Week 0
 * [x] Week 1
-* [ ] Week 2
-* [ ] Week 3
-* [ ] Week 4
+* [x] Week 2
+* [x] Week 3
+* [x] Week 4
 * [ ] Week 5
 * [ ] Week 6
 * [ ] Week 7
